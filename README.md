@@ -1,7 +1,7 @@
 # BANCO IMOBILIARIO
 ☑️JOGO EM HTML/CSS/JS.
 
-<img src="FOTO.png" align="center" width="500"> <br> 
+<img src="IMAGEM.png" align="center" width="500"> <br> 
 
 ## DESCRIÇÃO:
 Este é um jogo de simulação de transferências de valores entre cartões. Aqui está uma descrição de como o jogo funciona:
@@ -25,5 +25,5 @@ Este é um jogo de simulação de transferências de valores entre cartões. Aqu
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
-- [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-- [ESTÁ DISPONIVEL NO SITE](https://vilhalva.github.io/STYLER/STYLER.html)
+- [PROJETO CRIADO PELO "localhost-io"](https://github.com/localhost-io/super-banco-imobiliario)
+- [PROJETO FEITO PELO VILHALVA](https://github.com/VILHALVA)
